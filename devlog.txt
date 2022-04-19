@@ -1,0 +1,59 @@
+While I'm at the pavillion, I'm eating some school dinner with my girlfriend when I get a call from my friend asking
+to bring him some grub since its closing soon. I agree and start to deliver a box of chicken nuggets to my friend's
+dorm. To my surprise I enter his room to see him coding, I ask him if he's finally working on the coding lab's we were
+given for class. He laughs and tells me no, and that its the prework for an internship he is applying to. I tell him
+that's cool and that he should link me that internship because it looks like something that would interest me. He links
+it to me and I get to work. It took me around an hour to get the basics of the web app done: title, buttons, game logic,
+and stylings. And that brings me to now.
+
+0040 04-18-2022
+
+I have things planned, in addition to the optional tasks given by CodePath:
+- scoreboard
+- endless mode
+- more buttons
+- scores
+- difficulties
+
+I will check into this devlog every hour to track how long I've spent, and my creative process.
+
+So far all I've done is give the game a unique name, description, and a footer giving my information.
+
+0210 04-18-2022
+
+I kinda got distracted with a bunch of Elden Ring lore stuff and watching too much Pyrocynical. But I did add some stuff
+that I'm really proud of. Now I'm not sure if I should commit some stuff to github already because I want some items to
+be implemented before I record the videos. Basically, I added another button, and I've made it so that keyboard presses
+count toward guesses. I was going to write a but statement there, but while writing it I figured out a fix for it.
+
+0246 04-18-2022
+
+Going to bed now
+
+0335 04-18-2022
+
+So I lied when I said I was going to bed
+
+Hours spent on project: I'mma say around 3 by now, I'm not counting 2 of the hours since starting since I was literally
+dicking around on YouTube and shit. My roommate is literally grinding Metal Gear Rising with an autoclicker I think..?
+But I've implemented a three strikes system.
+
+0414 04-18-2022
+
+This whole speed up the clues the further you go along is complete and utter bollocks. It's very hard, I'm writting it
+down so I can remember my frustration when I'm doing my reflection on this project. Good lord did I not read the
+instruction when it gave me the easiest way to solve my problem.
+
+
+
+1056 04-18-2022
+
+Lol.
+
+1630 04-18-2022
+
+Working...
+
+1700 04-18-2022
+
+Stopping here, I'm pretty much sure I'm done with everything I want to do the requirements.

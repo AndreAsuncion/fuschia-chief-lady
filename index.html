@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://cdn.discordapp.com/emojis/910087032347430932.webp?size=96&quality=lossless" />
+
+    <title>Rapid Reflex!</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <!-- this is the start of content -->
+    <h1>
+      Rapid Reflex
+    </h1>
+
+    <p>
+      Rapid Reflex is a memory game that gets progressively harder by speeding up the further along you go. Try and get the highest score among your friends!
+    </p>
+    
+    <button id="startBtn" onclick="startGame()">
+      Start
+    </button>
+    <button id="stopBtn" class="hidden" onclick="stopGame()">
+      Stop
+    </button>
+    
+    
+    
+    <div id="gameButtonArea">
+      <button id="button1" onclick="guess(1)" onmousedown="startTone(1)" onmouseup="stopTone()">Q</button>
+      <button id="button2" onclick="guess(2)" onmousedown="startTone(2)" onmouseup="stopTone()">W</button> 
+      <button id="button3" onclick="guess(3)" onmousedown="startTone(3)" onmouseup="stopTone()">E</button> 
+      <button id="button4" onclick="guess(4)" onmousedown="startTone(4)" onmouseup="stopTone()">R</button>
+      <button id="button5" onclick="guess(5)" onmousedown="startTone(5)" onmouseup="stopTone()">T</button>
+    </div>
+    
+    <footer>
+      <div class="row">
+        <div class="column">
+          Author: Andre Limos
+        </div>
+        <div class="column">
+          <a href="mailto:aaasuncion02@gmail.com">aaasuncion02@gmail.com</a>
+        </div>
+      </div>
+      <p class="footerText">
+        Rapid Reflex was made as Pre-Work for CodePath internship to demonstrate coding capabilities
+      </p>
+    </footer>
+    
+  </body>
+</html>
