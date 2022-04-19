@@ -4,7 +4,7 @@
 
 Submitted by: **Andre Limos**
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 Link to project: [https://glitch.com/edit/#!/fuschia-chief-lady](https://glitch.com/edit/#!/fuschia-chief-lady)
 
@@ -39,7 +39,6 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](https://cdn.glitch.global/13cb2695-3bf6-4ec9-8d66-bd3441ac50b3/Game_Logic.gif?v=1650327634172)
 ![](https://cdn.glitch.global/13cb2695-3bf6-4ec9-8d66-bd3441ac50b3/Three_Strikes.gif?v=1650327636699)
 ![](https://cdn.glitch.global/13cb2695-3bf6-4ec9-8d66-bd3441ac50b3/Randomization.gif?v=1650327638877)
@@ -72,7 +71,7 @@ With a bit more time and expertise, I would've wanted to have a leaderboard to c
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://youtu.be/V5JGryKMU_Y)
 
 
 ## License
